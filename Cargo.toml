@@ -1,5 +1,5 @@
 [package]
-name = "Razorpay_rust"
+name = "razorpay_rust"
 version = "0.0.1"
 edition = "2021"
 authors = ["Raj <floatraj@gmail.com>"]
@@ -9,6 +9,7 @@ license = "MIT"
 keywords = ["Razorpay", "Razorpay_SDK"]
 categories = ["api-bindings"]
 readme = "README.md"
+rust-version = "1.58.1"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
